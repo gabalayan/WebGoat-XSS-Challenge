@@ -5,3 +5,4 @@
 * Foxy Proxy Web Scarab (FireFox Extension)
 * Tamper Data for FF Quantum by Pamblam (FireFox Extension)
 * CyberChef
+## Environment Setup
