@@ -6,3 +6,10 @@
 * Tamper Data for FF Quantum by Pamblam (FireFox Extension)
 * CyberChef
 ## Environment Setup
+1. Ensure both OWASP BWA and Kali machine are running.
+2. Input the IP address of OWASP BWA machine into a browser on the Kali Linux machine.
+3. Select OWASP WebGoat on the menu
+	*Use the login credentials _guest_:_guest_ to continue to WebGoat
+4. On the WebGoat website, navigate to the Challenge sub-menu on the left side of the page.
+![](Images/1-Navigated-to-WebGoat-Challenge-Page.JPG)
+## Task 1: Breaking the authentication scheme
