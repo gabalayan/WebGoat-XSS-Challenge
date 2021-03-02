@@ -19,6 +19,7 @@
 * While on the source code, filter for passwords by running **Cntrl+F** and typing in "Password"
 	*  Parsing for "Password" in the browser brings us the login credentails 
 	*__"youaretheweakestlink":"goodbye"__
-	![](Images/3-Cntrl-F-for-password-and-found-user-credentials-on-page.JPG)
+	![](Images/3-Cntrl-F-for-password-and-found-user-credentials-on-page.JPG) *
+* 
 ## Task 2: Stealing all the credit cards from teh database
 ## Task 3: Defacing the website
