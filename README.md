@@ -13,11 +13,12 @@
 4. On the WebGoat website, navigate to the Challenge sub-menu on the left side of the page to begin the activity.
 ![](Images/1-Navigated-to-WebGoat-Challenge-Page.JPG)
 ## Task 1: Breaking the authentication scheme
-* To break the authentication scheme and gain access to the database, we can parse through the HTML source code to find clues about the login credentials.
-	* To access the website's source code, replace the URL's parameters so that **source?source=true**
+* To break the authentication scheme and gain access to the database, parse through the HTML source code to find clues about the login credentials.
+	* To access the website's source code, replace the URL's parameters so that * __source?source=true__
 	![](Images/2-Appendeds%20UIRL%20to%20read%20source%20code.JPG)
 * While on the source code, filter for passwords by running **Cntrl+F** and typing in "Password"
-	*  Parsing for "Password" brings us the login credentails __"youaretheweakestlink":"goodye"__
+	*  Parsing for "Password" brings us the login credentails 
+	*__"youaretheweakestlink":"goodye"__
 	![](Images/3-Cntrl-F-for-password-and-found-user-credentials-on-page.JPG)
 ## Task 2: Stealing all the credit cards from teh database
 ## Task 3: Defacing the website
