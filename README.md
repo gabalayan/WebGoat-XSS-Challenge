@@ -14,7 +14,7 @@
 ![](Images/1-Navigated-to-WebGoat-Challenge-Page.JPG)
 ## Task 1: Breaking the authentication scheme
 * To break the authentication scheme and gain access to the database, parse through the HTML source code to find clues about the login credentials.
-	* To access the website's source code, replace the URL's parameters so that 	* __source?source=true__
+	* To access the website's source code, replace the URL's parameters so that 	 __source?source=true__
 	![](Images/2-Appendeds%20UIRL%20to%20read%20source%20code.JPG)
 * While on the source code, filter for passwords by running **Cntrl+F** and typing in "Password"
 	*  Parsing for "Password" in the browser brings us the login credentails 
