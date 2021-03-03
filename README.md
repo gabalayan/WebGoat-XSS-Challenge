@@ -25,7 +25,7 @@
 	* Log into the website with __"youaretheweakestlink":"goodbye"__
 	* ![](Images/4-logged-in-using-hidden-credentials.JPG)
 * Congratulations! You have completed Task 1. You have now cracked the website's authentication and can access the site.
-## Task 2: Stealing all the credit cards from teh database
+## Task 2: Stealing all the credit cards from the database
 * Now that you have logged into the website, it is time to steal credit card data from the database.
 * Start the Tamper Data extension on your Firefox browser.
 	* ![](Images/5-Started-Tamper-Data-Extension.JPG)
