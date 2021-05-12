@@ -1,5 +1,5 @@
 # WebGoat-XSS-Challenge
-#### Using Cross-Site-Scripting (XSS) and Tamper Data on a vulnerable web server to gather login credentials and compromise the integrity of a website
+#### Using Cross-Site-Scripting (XSS) and Tamper Data on a vulnerable web server to gather login credentials and compromise the data integrity of its website
 #### By Glen Abalayan
 ## Technologies Used
 * Foxy Proxy Web Scarab (FireFox Extension)
